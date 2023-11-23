@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, c#");
+﻿Console.WriteLine("Method One");
+Console.WriteLine("Method Two");
+Console.WriteLine("Method Three");
